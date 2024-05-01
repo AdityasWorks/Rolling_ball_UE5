@@ -12,6 +12,9 @@ Welcome to the Rolling Ball Game project! This game, developed in Unreal Engine 
 
 In this game, players control a ball using intuitive controls to navigate through the levels. The primary objective is to collect all the points scattered throughout the level before the time runs out. Players must roll strategically, avoiding obstacles and pitfalls along the way.
 
+![Game Screenshot]([https://example.com/game-screenshot.png](https://github.com/AdityasWorks/Rolling_ball_UE5/blob/master/Screenshot%202024-05-01%20125652.png))
+
+
 ## Installation
 
 To play the Rolling Ball Game:
